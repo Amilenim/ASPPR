@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\ASPPR\\Practice 1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|d:\\project\\asppr\\practice 1.1\\algorithms\\calculateprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|solutionrelative:algorithms\\calculateprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|d:\\project\\asppr\\practice 1.1\\calculateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|solutionrelative:calculateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|d:\\project\\asppr\\practice 1.1\\algorithms\\gaussjordaneliminationalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|solutionrelative:algorithms\\gaussjordaneliminationalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|D:\\Project\\ASPPR\\Practice 1.1\\algorithms\\calculateprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A78B2A04-13CA-45C7-930F-4B01BB389456}|Practice 1.1.csproj|solutionrelative:algorithms\\calculateprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateForm.cs",
+              "DocumentMoniker": "D:\\Project\\ASPPR\\Practice 1.1\\CalculateForm.cs",
+              "RelativeDocumentMoniker": "CalculateForm.cs",
+              "ToolTip": "D:\\Project\\ASPPR\\Practice 1.1\\CalculateForm.cs",
+              "RelativeToolTip": "CalculateForm.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAIwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:35:16.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GaussJordanEliminationAlgorithms.cs",
+              "DocumentMoniker": "D:\\Project\\ASPPR\\Practice 1.1\\Algorithms\\GaussJordanEliminationAlgorithms.cs",
+              "RelativeDocumentMoniker": "Algorithms\\GaussJordanEliminationAlgorithms.cs",
+              "ToolTip": "D:\\Project\\ASPPR\\Practice 1.1\\Algorithms\\GaussJordanEliminationAlgorithms.cs",
+              "RelativeToolTip": "Algorithms\\GaussJordanEliminationAlgorithms.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:38:45.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculateProtocol.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\ASPPR\\Practice 1.1\\Algorithms\\CalculateProtocol.cs",
+              "RelativeDocumentMoniker": "Algorithms\\CalculateProtocol.cs",
+              "ToolTip": "D:\\Project\\ASPPR\\Practice 1.1\\Algorithms\\CalculateProtocol.cs [Design]",
+              "RelativeToolTip": "Algorithms\\CalculateProtocol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:25:02.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateProtocol.cs",
+              "DocumentMoniker": "D:\\Project\\ASPPR\\Practice 1.1\\Algorithms\\CalculateProtocol.cs",
+              "RelativeDocumentMoniker": "Algorithms\\CalculateProtocol.cs",
+              "ToolTip": "D:\\Project\\ASPPR\\Practice 1.1\\Algorithms\\CalculateProtocol.cs",
+              "RelativeToolTip": "Algorithms\\CalculateProtocol.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwFwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:51:02.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
